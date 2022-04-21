@@ -4,7 +4,7 @@
 - 💞️ ... looking to collaborate on ... RC Crawler cars, 1/24 scale, axial scx24
 - 📫 How to reach me ... www.sclab.es
 
-Here we liberate our free resources to enjoy with this awesome toys
+We reselase here our free resources to enjoy with this awesome toys
 
 <!---
 sclab-es/sclab-es is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
